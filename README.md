@@ -65,19 +65,19 @@ Suhtluskanalid:
 
    Figma, lisaks oskasin tiimikaalsasi veidi juhendada
    
-**nimi nimi**   
+**Evert Kärp**   
    
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
-  
+   ?
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
-   
+   Suhtlus
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 
- 
+   JavaScript
       
 
 
