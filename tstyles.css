@@ -6,6 +6,7 @@
   
   body {
     font-family: 'Roboto', sans-serif ;
+    background-color: #ffae42;
   }
   
   #header {
@@ -57,13 +58,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    padding: 1rem;
   }
 
-  @media (min-width: 1024px) {
-    .container {
-        width: auto;
-    }
-  }
 
   .slideshow-container {
       max-width: 1000px;
@@ -248,6 +246,7 @@
     }
   
     .quiz_container {
+      border: 5px solid #2a6dcc;
       background: #fff;
       min-width: 200px;
       border-radius: 10px;
@@ -289,5 +288,13 @@
     }
   
     .tutvustus {
+      font-size: 20px;
       padding: 20px;
+      width: 100%;
     }
+
+@media (min-width: 1024px) {
+  .tutvustus {
+    width:500px;
+  }
+}

@@ -1,12 +1,11 @@
 * {
     padding: 0;
     margin: 0;
-    overflow-x: hidden;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-
+    background-color: #ffae42;
 }
 
 #header {
@@ -94,6 +93,13 @@ body {
     justify-content: center;
     width: 60%;
     gap: 10px;
+}
+
+.info a {
+    color: rgb(212, 212, 212);
+    text-decoration-color: #ffae42;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 1px;
 }
 
 @media (min-width: 1024px) {

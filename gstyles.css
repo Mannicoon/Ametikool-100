@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Roboto', sans-serif ;
+  background-color: #ffae42;
 }
 
 #header {
@@ -54,6 +55,8 @@ body {
 }
 
 .slideshow-container {
+    border: 5px solid #2a6dcc;
+    border-radius: 10px;
     max-width: 1000px;
     position: relative;
     margin: auto;
@@ -278,4 +281,8 @@ body {
 
   .tutvustus {
     padding: 20px;
+  }
+
+  .dots{
+    padding-top: 10px;
   }
