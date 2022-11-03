@@ -9,7 +9,7 @@ Luua Prtfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul.
 Evert Kärp
 
 **TAK - 22**
-Kristo-Steven Altmäe
+Kristo-Steven Altmäe, Robin Pruunlep
 
 **TA - 22**
 Liis Alber-Jaansalu
