@@ -12,7 +12,7 @@ Evert Kärp
 Kristo-Steven Altmäe, Robin Pruunlep
 
 **TA - 22**
-Liis Alber-Jaansalu
+Liis Alber-Jaansalu, Kaspar Kaasik
 
 **TAK - 21**
 Gregor Tilts
@@ -133,4 +133,19 @@ Suhtluskanalid:
    3.Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    Õppisin githubi kasutama.
+   
+**Kaspar Kaasik**
+   
+   1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+   
+   Oskan paremini figma kasutada ja rohkem kaasa rääkida
+   
+   2.Üks pehme oskus, mida õppisin ja endas arendasin.
+   
+   Suhtlus, oskan paremini kaasa rääkida
+   
+   3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+   
+   figma
+   
    
