@@ -14,6 +14,9 @@ Kristo-Steven Altmäe
 **TA - 22**
 Liis Alber-Jaansalu
 
+**TAK - 21**
+Gregor Tilts
+
 ## Kommunikatsioon
 Suhtluskanalid: 
 **Slack**
@@ -103,5 +106,17 @@ Suhtluskanalid:
    * Karl Andreas Mätlik - Arduino kasutus.
    
    
+   **Gregor Tilts**
    
+   1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+   
+   Oskan  figmat kasutada.
+   
+   2. Üks pehme oskus, mida õppisin ja endas arendasin.
+   
+   Suhtlemine tiimiga.
+   
+   3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+   
+   Õppisin figmat kasutama.
    
