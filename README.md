@@ -18,6 +18,7 @@ Suhtluskanalid:
 
 ## Ülesanded
 **1.päev**
+
 - Meeskonnaga tutvumine
 - Suhtluskanalite loomine
 - Lähteülesande selgitamine
@@ -29,14 +30,15 @@ Suhtluskanalid:
 
 **2.päev**
 
-![image](https://github.com/Mannicoon/Ametikool-100/blob/master/visuaal2.jpg)
-
 - Koodi kirjutamine, parandamine
 - Disaini tegemine, lisasime desktopi vaated
 - Wireframe
 - Readme
 
+![image](https://github.com/Mannicoon/Ametikool-100/blob/master/visuaal2.jpg)
+
 **3.päev**
+
 - Viimistlus
 - Esitlus
 
