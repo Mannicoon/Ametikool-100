@@ -8,6 +8,7 @@ Luua Prtfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul.
 **TAK - 21**
 
 **TAK - 22**
+Kristo-Steven Altmäe
 
 **TA - 22**
 Liis Alber-Jaansalu
@@ -65,6 +66,21 @@ Suhtluskanalid:
 
    Figma, lisaks oskasin tiimikaalsasi veidi juhendada
    
+ 
+ **Kristo-Steven Altmäe**
+ 
+ 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+
+  Saan paremini aru ja oskan teha veebilehti paremini. 
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+   
+   Suhtlemine tiimiga.
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+
+   Burger menu nupu tegemine, veebikehe layout.
+   
 **nimi nimi**   
    
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
@@ -81,6 +97,6 @@ Suhtluskanalid:
       
 
 
-   * Karl Andreas Mätlik - Arduino kasutus.
+   * Karl Andreas Mätlik - Arduino kasutus. 
    
    
