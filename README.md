@@ -112,7 +112,7 @@ Suhtluskanalid:
    
    Oskan  figmat kasutada.
    
-   2. Üks pehme oskus, mida õppisin ja endas arendasin.
+   2.Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlemine tiimiga.
    
