@@ -1,16 +1,17 @@
 * {
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
 }
 
 #header {
     overflow: hidden;
     background-color: #2a6dcc;
-    position: fixed;
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
+    z-index:2;
 }
   
 .topnav #links {
@@ -24,7 +25,7 @@
     color: rgb(255, 255, 255);
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 35px;
     display: block;
 }
   
@@ -34,7 +35,8 @@
     position: absolute;
     right: 0;
     top: 0;
-    padding: 21px;
+    padding: 29px;
+    
 }
   
 .topnav a:hover {
@@ -43,12 +45,11 @@
 }
   
 #header img{
-    margin-left: 40px;
     max-width:270px;
+    margin: 20px;
 }
 
 .kontaktid{
-    padding-top: 60px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;

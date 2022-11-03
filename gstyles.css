@@ -1,57 +1,52 @@
 * {
-    padding: 0;
-    margin: 0;
-    overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
 }
 
 #header {
-    overflow: hidden;
-    background-color: #2a6dcc;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 100%;
-    z-index:2;
+  overflow: hidden;
+  background-color: #2a6dcc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  z-index:2;
 }
-  
+
 .topnav #links {
-    text-align: center;
-    display: none;
-    background-color: #14468A;
+  text-align: center;
+  display: none;
+  background-color: #14468A;
 
 }
-  
+
 .topnav a {
-    color: rgb(255, 255, 255);
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    display: block;
+  color: rgb(255, 255, 255);
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  display: block;
 }
 
-.nav {
-    display: flex;
-    flex-direction: row;
-}
-  
 .topnav a.icon {
-    background: #2a6dcc;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding: 21px;
-    
-}
+  background: #2a6dcc;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 29px;
   
+}
+
 .topnav a:hover {
-    background-color:#14468A;
-    color: black;
+  background-color:#14468A;
+  color: black;
 }
-  
+
 #header img{
-    max-width:270px;
-    margin: 20px;
+  max-width:270px;
+  margin: 20px;
 }
 
 .slideshow-container {
