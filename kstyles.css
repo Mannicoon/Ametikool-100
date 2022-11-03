@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    overflow: hidden;
+    background-color: #2a6dcc;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+  
+.topnav #links {
+    text-align: center;
+    display: none;
+    background-color: #14468A;
+
+}
+  
+.topnav a {
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+  
+.topnav a.icon {
+    background: #2a6dcc;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 21px;
+}
+  
+.topnav a:hover {
+    background-color:#14468A;
+    color: black;
+}
+  
+#header img{
+    margin-left: 40px;
+    max-width:270px;
+}
+
+.kontaktid{
+    padding-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+}
+
+.bord{
+    border-bottom: 1px solid grey;
+    padding: 10px;
+}
+
+.kontaktid img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: contain;
+}
