@@ -5,6 +5,10 @@
 Luua Prtfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul. 
 
 ## Grupi liikmed:
+**TAK - 21**
+
+**TAK - 22**
+
 **TA - 22**
 Liis Alber-Jaansalu
 
