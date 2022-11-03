@@ -121,6 +121,7 @@ Suhtluskanalid:
    Õppisin figmat kasutama.
    
    **Robin Pruunlep**
+   
    1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan paremini github kasutada.
