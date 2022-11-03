@@ -65,6 +65,7 @@ Suhtluskanalid:
 
    Figma, lisaks oskasin tiimikaalsasi veidi juhendada
    
+   
 **Evert Kärp**   
    
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
