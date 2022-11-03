@@ -9,6 +9,7 @@ Luua Prtfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul.
 Evert Kärp
 
 **TAK - 22**
+Kristo-Steven Altmäe
 
 **TA - 22**
 Liis Alber-Jaansalu
@@ -80,6 +81,22 @@ Suhtluskanalid:
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 
    JavaScript
+   
+   
+ **Kristo-Steven Altmäe**
+
+ 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+
+  Saan paremini aru ja oskan teha veebilehti paremini. 
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+
+   Suhtlemine tiimiga.
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+
+   Burger menu tegemine, veebikehe layout.   
+   
       
 
 
