@@ -6,6 +6,7 @@ Luua Prtfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul.
 
 ## Grupi liikmed:
 **TAK - 21**
+Evert Kärp
 
 **TAK - 22**
 
