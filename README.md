@@ -25,7 +25,12 @@ Suhtluskanalid:
 - Koodi kirjutamine
 - Disaini tegemine, mobiilivaade
 
+![image](https://github.com/Mannicoon/Ametikool-100/blob/master/visuaal1.jpg)
+
 **2.päev**
+
+![image](https://github.com/Mannicoon/Ametikool-100/blob/master/visuaal2.jpg)
+
 - Koodi kirjutamine, parandamine
 - Disaini tegemine, lisasime desktopi vaated
 - Wireframe
