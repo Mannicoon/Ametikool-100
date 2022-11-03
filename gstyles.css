@@ -26,39 +26,20 @@ body {
 }
 
 .topnav a {
-<<<<<<< Updated upstream
   color: rgb(255, 255, 255);
   padding: 14px 16px;
   text-decoration: none;
   font-size: 35px;
   display: block;
-=======
-    color: rgb(255, 255, 255);
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 35px;
-    display: block;
->>>>>>> Stashed changes
 }
 
 .topnav a.icon {
-<<<<<<< Updated upstream
   background: #2a6dcc;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
   padding: 29px;
-=======
-    background: #2a6dcc;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding: 29px;
-    
-}
->>>>>>> Stashed changes
   
 }
 
