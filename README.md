@@ -52,7 +52,22 @@ Suhtluskanalid:
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 
-   Figma, lisaks oskasin tiimikaalsasi veidi juhendada 
+   Figma, lisaks oskasin tiimikaalsasi veidi juhendada
+   
+**nimi nimi**   
+   
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+
+  
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+   
+   
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+
+ 
+      
 
 
    * Karl Andreas Mätlik - Arduino kasutus.
