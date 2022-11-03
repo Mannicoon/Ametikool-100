@@ -4,6 +4,10 @@
   overflow-x: hidden;
 }
 
+body {
+  font-family: 'Roboto', sans-serif ;
+}
+
 #header {
   overflow: hidden;
   background-color: #2a6dcc;
@@ -22,20 +26,39 @@
 }
 
 .topnav a {
+<<<<<<< Updated upstream
   color: rgb(255, 255, 255);
   padding: 14px 16px;
   text-decoration: none;
   font-size: 35px;
   display: block;
+=======
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    display: block;
+>>>>>>> Stashed changes
 }
 
 .topnav a.icon {
+<<<<<<< Updated upstream
   background: #2a6dcc;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
   padding: 29px;
+=======
+    background: #2a6dcc;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 29px;
+    
+}
+>>>>>>> Stashed changes
   
 }
 
@@ -229,4 +252,49 @@
     .modal-content {
       width: 80%;
     }
+  }
+
+  .quiz_container {
+    background: #fff;
+    min-width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .quiz_header {
+    padding: 2rem;
+  }
+  .quiz_header ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  h2 {
+    padding: 16px 0;
+    padding-top: 0px;
+  }
+  
+  .quiz_container button {
+    width: 100%;
+    padding: 16px 0;
+    border: none;
+    font-size: 22px;
+    background-color: #ee7c00;
+    color: #fff;
+  }
+  .quiz_container button:hover {
+    background-color: #da7000;
+  }
+  
+  ul li {
+    margin: 12px 0;
+    font-size: 18px;
+  }
+  
+  ul li label {
+    margin-left: 4px;
+  }
+
+  .tutvustus {
+    padding: 20px;
   }
