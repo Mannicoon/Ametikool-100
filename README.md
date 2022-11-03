@@ -79,7 +79,7 @@ Suhtluskanalid:
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 
-   Burger menu nupu tegemine, veebikehe layout.
+   Burger menu nupu tegemine, veebilehe layout.
    
 **nimi nimi**   
    
