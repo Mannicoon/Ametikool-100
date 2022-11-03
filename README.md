@@ -120,3 +120,16 @@ Suhtluskanalid:
    
    Õppisin figmat kasutama.
    
+   **Robin Pruunlep**
+   1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+   
+   Oskan paremini github kasutada.
+   
+   2.Üks pehme oskus, mida õppisin ja endas arendasin.
+   
+   Suhtlus.
+   
+   3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+   
+   Õppisin githubi kasutama.
+   
