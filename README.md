@@ -107,57 +107,57 @@ Suhtluskanalid:
    
 **Gregor Tilts**
    
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan  figmat kasutada.
    
-2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlemine tiimiga.
    
-3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    Õppisin figmat kasutama.
    
    
 **Robin Pruunlep**
    
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan paremini github kasutada.
    
-2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlus.
    
-3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    Õppisin githubi kasutama.
    
 **Kaspar Kaasik**
    
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan paremini figma kasutada ja rohkem kaasa rääkida
    
-2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlus, oskan paremini kaasa rääkida
    
-3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    figma
    
 **Karl Andreas Mätlik**
    
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Tean kuidas JavaScripti paremini teha.
    
-2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Tiimiga suhtlemine ja juhendamine
    
-3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    JavaScripti ja API kasutamine
