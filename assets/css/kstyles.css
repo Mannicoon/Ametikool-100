@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffae42;
+}
+
+#header {
+    overflow: hidden;
+    background-color: #2a6dcc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    z-index:2;
+}
+  
+.topnav #links {
+    text-align: center;
+    display: none;
+    background-color: #14468A;
+
+}
+  
+.topnav a {
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    display: block;
+}
+  
+.topnav a.icon {
+    background: #2a6dcc;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 29px;
+    
+}
+  
+.topnav a:hover {
+    background-color:#14468A;
+    color: black;
+}
+  
+#header img{
+    max-width:270px;
+    margin: 20px;
+}
+
+.kontaktid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+    margin: 1rem;
+}
+
+.bord{
+    border-bottom: 1px solid grey;
+    display: flex;
+    padding: 1rem;
+    background-color: #2a6dcc;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.bord a {
+    color-scheme: gray;
+}
+
+.kontaktid img{
+    width: 100px;
+    height: 100px;
+    padding: 1rem;
+    border-radius: 100px;
+    object-fit: contain;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    gap: 10px;
+}
+
+.info a {
+    color: rgb(212, 212, 212);
+    text-decoration-color: #ffae42;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 1px;
+}
+
+@media (min-width: 1024px) {
+    .bord {
+        width: 500px;
+    }
+    
+    .info {
+        width: 100%;
+    }
+}
+

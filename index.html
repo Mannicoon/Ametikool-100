@@ -1,26 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutvustus ja Faktid</title>
+    <link rel="stylesheet" href="assets/css/tstyles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
 <body>
+    <header id="header">
+        <a>
+            <img id="header-img" src="https://www.ametikool.ee/sites/ametikool.ee/files/styles/hitsa_core_logo/public/kuressaare-ametikool-100-logo-02-02-04.png?itok=LckElaLm">
+        </a>
+        <div class="topnav">
+            <div id="links">
+                <a href="./">Info</a>
+                <a href="./gindex.html">Galerii</a>
+                <a href="./kindex.html">Kontaktid</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="tutvustus">
+            <h2>Tutvustus</h2>
+            <p>Kool loodi 6. novembril 1922 Kuressaare Ehitusinstruktorite Koolina, esmakordselt võeti vastu 19 õpilast. See märgib ka järjepideva kutsehariduse algust Saaremaal. 1930. aastatel õpetati koolis peamiselt ehitus-, puidu- ja metallitööd. 1950ndatel lisandusid põllumajanduserialad. 1970. aastail hakati andma keskharidust ning avati kodumajanduse, käsitöö, ja loomakasvatuse erialarühmad tütarlastele. Tänaseks õpib koolis ligi 800 õpilast. </p>
+        </div>
+    
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+        </div>
+        <div class="spacer"></div>
+                <!-- QUIZ -->
+        <div class="quiz_container">
+            <div class="quiz_header">
+                <h2 id="question">question text</h2>
+                <ul id="options"></ul>
+            </div>
+        <button class="submit">Next</button>
+        </div>
+        <div class="spacer"></div>
+    </div>
 
-<div id="googleMap" style="width:100%;height:400px;"></div>
-
-<script>
-function myMap() {
-    const myLatLng = { lat: 58.25632, lng: 22.48234 };
-    var mapProp= {
-        center:new google.maps.LatLng(myLatLng),
-        zoom:15,
-    };
-    var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-
-    new google.maps.Marker({
-        position: myLatLng,
-        map
-    })
-}
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=&callback=myMap"></script>
-
+    
+    <script src="assets/js/html.js"></script>
+    <script src="assets/js/more.js"></script>
 </body>
 </html>
