@@ -1,5 +1,5 @@
 # GRUPITÖÖ - Ametikooli Portfoolio
-2-5 november 2022
+2-4. november 2022
 
 ## Projekti eesmärk
 Luua Portfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul. 
