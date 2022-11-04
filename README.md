@@ -1,12 +1,12 @@
 # GRUPITÖÖ - Ametikooli Portfoolio
-2-5 november 2022
+2-4. november 2022
 
 ## Projekti eesmärk
-Luua Prtfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul. 
+Luua Portfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul. 
 
 ## Grupi liikmed:
 **TAK - 21**
-Evert Kärp
+Evert Kärp, Karl Andreas Mätlik, Gregor Tilts
 
 **TAK - 22**
 Kristo-Steven Altmäe, Robin Pruunlep
@@ -14,8 +14,6 @@ Kristo-Steven Altmäe, Robin Pruunlep
 **TA - 22**
 Liis Alber-Jaansalu, Kaspar Kaasik
 
-**TAK - 21**
-Gregor Tilts
 
 ## Kommunikatsioon
 Suhtluskanalid: 
@@ -86,9 +84,9 @@ Suhtluskanalid:
    JavaScript
    
    
- **Kristo-Steven Altmäe**
+**Kristo-Steven Altmäe**
 
- 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
   Saan paremini aru ja oskan teha veebilehti paremini. 
 
@@ -100,52 +98,61 @@ Suhtluskanalid:
 
    Burger menu tegemine, veebikehe layout.   
    
-      
-
-
-   * Karl Andreas Mätlik - Arduino kasutus.
    
    
-   **Gregor Tilts**
+**Gregor Tilts**
    
-   1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan  figmat kasutada.
    
-   2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlemine tiimiga.
    
-   3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    Õppisin figmat kasutama.
    
-   **Robin Pruunlep**
    
-   1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+**Robin Pruunlep**
+   
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan paremini github kasutada.
    
-   2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlus.
    
-   3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    Õppisin githubi kasutama.
    
 **Kaspar Kaasik**
    
-   1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
    
    Oskan paremini figma kasutada ja rohkem kaasa rääkida
    
-   2.Üks pehme oskus, mida õppisin ja endas arendasin.
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
    Suhtlus, oskan paremini kaasa rääkida
    
-   3.Üks tehniline oskus, mida õppisin ja endas arendasin.
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
    
    figma
    
+**Karl Andreas Mätlik**
    
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+   
+   Tean kuidas JavaScripti paremini teha.
+   
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+   
+   Tiimiga suhtlemine ja juhendamine
+   
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
+   
+   JavaScripti ja API kasutamine
