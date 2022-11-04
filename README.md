@@ -1,6 +1,10 @@
 # GRUPITÖÖ - Ametikooli Portfoolio
 2-4. november 2022
 
+## Lingid
+**Figma** - [LINK](https://www.figma.com/file/vYp7wPv7BbdZCkuRtfdH7U/Ametikool-100)
+**Lehekülg** - [LINK](https://ametikool-100.tak21matlik.itmajakas.ee/)
+
 ## Projekti eesmärk
 Luua Portfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul. 
 
