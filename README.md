@@ -6,7 +6,7 @@ Luua Portfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul.
 
 ## Grupi liikmed:
 **TAK - 21**
-Evert Kärp
+Evert Kärp, Karl Andreas Mätlik, Gregor Tilts
 
 **TAK - 22**
 Kristo-Steven Altmäe, Robin Pruunlep
@@ -14,11 +14,6 @@ Kristo-Steven Altmäe, Robin Pruunlep
 **TA - 22**
 Liis Alber-Jaansalu, Kaspar Kaasik
 
-**TAK - 21**
-Gregor Tilts
-
-**TAK - 21**
-Karl Andreas Mätlik
 
 ## Kommunikatsioon
 Suhtluskanalid: 
