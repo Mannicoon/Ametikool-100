@@ -73,7 +73,7 @@ Suhtluskanalid:
    
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
 
-   ?
+   Oskan paremini tiimitööd teha
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
    
